@@ -1,17 +1,22 @@
-# bmi_calculator_flutter
-A new Flutter project.
+# BMI Calculator 💪
 
-## Getting Started
+A Body Mass Index Calculator inspired by the beautiful designs made by [Ruben Vaalt](https://dribbble.com/shots/4585382-Simple-BMI-Calculator). It has a multi screen app with simple functionality but full-on custom styling.
 
-This project is a starting point for a Flutter application.
+![Finished App](https://github.com/londonappbrewery/Images/blob/master/bmi-calc-demo.gif)
 
-A few resources to get you started if this is your first Flutter project:
+## What you can learn from this project
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- How to use Flutter themes to create coherent branding.
+- How to create multi-page apps using Flutter Routes and Navigator.
+- How to extract and refactor Flutter Widgets with a click of the button.
+- How to pass functions as parameters and fields.
+- How to use the GestureDetector Widget to detect more than just a tap.
+- Howr to use custom colour palettes by using hex codes.
+- How to customise Flutter Widgets to achieve a specific design style.
+- Understand Dart Enums and the Ternary Operator.
+- Learn about composition vs. inheritance and the Flutter way of creating custom UI.
+- Undestand the difference between const and final in Dart and when to use each.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-App to calculate Body Mass Index (BMI)
+## [Get started](https://flutter.dev/docs/get-started/install) with Flutter development
+
+>This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
